@@ -12119,11 +12119,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ricki\\Desktop\\3-semester-projekt\\3-semester-projekt.csproj",
+      "projectUniqueName": "C:\\gitrep\\ustabilkode\\3-semester-projekt.csproj",
       "projectName": "3-semester-projekt",
-      "projectPath": "C:\\Users\\ricki\\Desktop\\3-semester-projekt\\3-semester-projekt.csproj",
+      "projectPath": "C:\\gitrep\\ustabilkode\\3-semester-projekt.csproj",
       "packagesPath": "C:\\Users\\ricki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ricki\\Desktop\\3-semester-projekt\\obj\\",
+      "outputPath": "C:\\gitrep\\ustabilkode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
