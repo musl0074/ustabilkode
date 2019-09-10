@@ -1,3 +1,19 @@
 ﻿.login {
-    margin-top: 350px;
+    margin-top: 250px;
+}
+
+h2 {
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    text-align: center;
+}
+
+#button-login {
+    width: 100%;
+}
+#button-opretprofil {
+    width: 100%;
 }
