@@ -58,3 +58,7 @@ C:\gitrep\ustabilkode\obj\Debug\netcoreapp2.2\3-semester-projekt.Views.pdb
 C:\gitrep\ustabilkode\obj\Debug\netcoreapp2.2\3-semester-projekt.dll
 C:\gitrep\ustabilkode\obj\Debug\netcoreapp2.2\3-semester-projekt.pdb
 C:\gitrep\ustabilkode\obj\Debug\netcoreapp2.2\3-semester-projekt.csproj.CopyComplete
+C:\gitrep\ustabilkode\obj\Debug\netcoreapp2.2\Razor\Pages\Login.g.cshtml.cs
+C:\gitrep\ustabilkode\obj\Debug\netcoreapp2.2\Razor\Pages\FAQ.g.cshtml.cs
+C:\gitrep\ustabilkode\obj\Debug\netcoreapp2.2\Razor\Pages\Products.g.cshtml.cs
+C:\gitrep\ustabilkode\obj\Debug\netcoreapp2.2\Razor\Pages\Forum.g.cshtml.cs
