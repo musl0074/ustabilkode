@@ -35,3 +35,7 @@ msbuild.wrn
 
 # Visual Studio 2015
 .vs/
+.vs/3-semester-projekt/DesignTimeBuild/.dtbcache
+.vs/3-semester-projekt/v15/.suo
+.vs/3-semester-projekt/v15/Server/sqlite3/storage.ide-shm
+.vs/3-semester-projekt/v15/Server/sqlite3/storage.ide-wal
